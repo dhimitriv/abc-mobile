@@ -70,5 +70,3 @@ gsap.from(".animate-email", {
   stagger: 0.25,
   delay: 0.6,
 });
-
-console.log("Hello!");
